@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/MysticQueenUS"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/privacy"
+  to = "/"
+  status = 200
